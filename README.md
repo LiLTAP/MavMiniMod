@@ -29,7 +29,7 @@ BMS Editing
 # Logfile Analysis
 Airdata
 
-Phantomhelp
+Phantomhelp /n
 https://www.phantomhelp.com/logviewer/upload/
 
 CsvView
