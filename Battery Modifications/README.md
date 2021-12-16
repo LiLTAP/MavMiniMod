@@ -13,8 +13,8 @@ Now, how do you choose a battery cell? Of course that depends on what you want t
 
 There have been tests in which the Mavic Mini was able to lift an additional 180g of balast, resulting in a total weight of 430g. This would mean that drone (150g without the battery) could take of with a battery weighing in at 280g. But from my experience everything above 350g total weight isn't really pleasant to fly except when going for range records. The maximum amperage the drone can draw, just flying large cirlces in sport mode, is 10A. Unsuprisingly the cells replacing the stock ones should be able to supply the same current. While the Mavic Mini's ESC would be able to accept 3S batteries, the BMS is designed for 2S. A 3S battery is possible but a lot more complicated will not be desribed on this repo. Again for simplicity sake i advise against using LiHV cells and rather choose LiIon chemistry or LiPo batteries.
 
-# Changing the Cells
+## Changing the Cells
 
-# BMS Editing 
+## BMS Editing 
 
 Dji Battery Killer
