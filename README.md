@@ -21,7 +21,7 @@ Parameter Dictionary
 
 Dronehacks
 
-## Battery Modifications
+## [Battery Modifications](https://github.com/LiLTAP/MavMiniMod/tree/main/Battery%20Modifications)
 Changing the Cells
 
 BMS Editing
