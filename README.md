@@ -1,7 +1,7 @@
 # MavMiniMod
 a collection of DJI Mavic Mini Mods 
 
-Firmware Changelog and Flashing Versions
+# Firmware Changelog and Flashing Versions
 01.00.0100
 
 01.00.0200
@@ -15,21 +15,22 @@ Firmware Changelog and Flashing Versions
 01.00.0600
 
 Module Mixing
-Parameter Editing
+# Parameter Editing
 
 Parameter Dictionary
 
 Dronehacks
 
-Battery Modifications
+# Battery Modifications
 Changing the Cells
 
 BMS Editing
 
-Logfile Analysis
+# Logfile Analysis
 Airdata
 
-Phantom dings
+Phantomhelp
+https://www.phantomhelp.com/logviewer/upload/
 
 CsvView
 
@@ -37,10 +38,10 @@ Java Runtime Environment
 
 TXTtoCSVtool
 
-Propeller Modification
+# Propeller Modification
 
 DJI Mini 2 Propeller
 
-AI Video Enhancing
+# AI Enhancing
 
 Topaz Labs
