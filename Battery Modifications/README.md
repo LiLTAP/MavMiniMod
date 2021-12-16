@@ -15,7 +15,7 @@ There have been tests in which the Mavic Mini was able to lift an additional 180
 
 ## Changing the Cells
 
-/assets/images/MM stock Bat topview.png
+/MavMiniMod/Battery Modifications/MM stock Bat topview.png
 
 ## BMS Editing 
 
