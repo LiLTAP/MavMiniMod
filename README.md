@@ -27,11 +27,11 @@ Changing the Cells
 BMS Editing
 
 ## Logfile Analysis
-Airdata
+[Airdata](https://airdata.com/)
 
 [Phantomhelp](https://www.phantomhelp.com/logviewer/upload/)
 
-CsvView
+[CsvView](https://datfile.net/CsvView/downloads.html)
 
 Java Runtime Environment
 
