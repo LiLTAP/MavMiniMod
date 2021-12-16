@@ -15,9 +15,8 @@ There have been tests in which the Mavic Mini was able to lift an additional 180
 
 ## Changing the Cells
 
-![alt test](MM_stock_Bat_topview.png)
+![alt test](MM_stock_Bat_topview.png?raw=true)
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/LiLTAP/MavMiniMod/blob/main/Battery%20Modifications/MM%20stock%20Bat%20topview.png?raw=true)
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ## BMS Editing 
 
