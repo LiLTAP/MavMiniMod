@@ -5,7 +5,7 @@ The Dji stock battery has a very high energy density of about 175Wh/kg, despite 
 
 Now, how do you choose a battery cell? Of course that depends on what you want to achieve, mostly in therms of flight time. Not any cell can be choosen, because hovering or flying needs a decent amount of power. These are the requiered specifications for a Mavic Mini battery:
 - <200g
-* >10A continous discharge
+- at least 10A continous discharge
 - internal resistance of <50mOhm
 - 2S (2 cells in Series) 
 - the number of cells in parallel doesn't matter
