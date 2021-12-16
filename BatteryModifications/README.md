@@ -18,6 +18,7 @@ There have been tests in which the Mavic Mini was able to lift an additional 180
 ![alt test](MM_stock_Bat_topview.png?raw=true)
 ![Optional Text](../main/BatteryModifications/MM_stock_Bat_topview.png)
 ![stack Overflow](http://lmsotfy.com/so.png)
+![alt test](Registers_page_think_stock_bat.jpg?raw=true)
 ## BMS Editing 
 
 Dji Battery Killer
